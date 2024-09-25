@@ -2321,16 +2321,16 @@
     <value>返回</value>
   </data>
   <data name="MainWindow_Exit" xml:space="preserve">
-    <value>退出</value>
+    <value>Exit</value>
   </data>
   <data name="MainWindow_MainWindow" xml:space="preserve">
-    <value>主窗口</value>
+    <value>Main Window</value>
   </data>
   <data name="MainWindow_Navigate" xml:space="preserve">
     <value>導航</value>
   </data>
   <data name="MainWindow_QuickTools" xml:space="preserve">
-    <value>快速窗口</value>
+    <value>Quick Tools</value>
   </data>
   <data name="MainWindow_Select" xml:space="preserve">
     <value>選擇</value>
